@@ -1,0 +1,12 @@
+{
+    "name": "npm-hang-repro",
+    "version": "1.0.0",
+    "description": "Reproduction for npm install hanging issue",
+    "optionalDependencies": {
+      "@nonexistent/package1": "^1.0.0",
+      "@nonexistent/package2": "^1.0.0"
+    },
+    "dependencies": {
+      "express": "^4.18.0"
+    }
+  }
